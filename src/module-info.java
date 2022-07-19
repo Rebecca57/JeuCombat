@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Micha
+ *
+ */
+module JeuCombat {
+}
